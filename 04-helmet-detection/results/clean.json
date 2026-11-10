@@ -1,0 +1,14 @@
+{
+ "variant": "clean",
+ "test_set": "original",
+ "mAP50": 0.563,
+ "mAP50_95": 0.3142,
+ "precision": 0.6729,
+ "recall": 0.5416,
+ "per_class_mAP50": {
+  "helmet": 0.6341,
+  "head": 0.5406,
+  "motorcycle": 0.5143
+ },
+ "minutes": 36.4
+}

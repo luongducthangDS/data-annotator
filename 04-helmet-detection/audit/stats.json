@@ -1,0 +1,11 @@
+{
+ "box_helmet": 1147,
+ "helmet_head_conflict": 0,
+ "box_head": 2087,
+ "only_plates_or_empty": 494,
+ "box_motorcycle": 796,
+ "images_used": 1429,
+ "train": 1001,
+ "val": 214,
+ "test": 214
+}

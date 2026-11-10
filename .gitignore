@@ -1,0 +1,8 @@
+CV/
+__pycache__/
+.pytest_cache/
+01-traffic-labeling/images/
+01-traffic-labeling/images_300.zip
+04-helmet-detection/work/
+04-helmet-detection/ds/
+out_*/

@@ -1,0 +1,221 @@
+[
+  {
+    "name": "motorbike",
+    "color": "#e6194b",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "car",
+    "color": "#3cb44b",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "bus",
+    "color": "#4363d8",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "truck",
+    "color": "#f58231",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "bicycle",
+    "color": "#911eb4",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "pedestrian",
+    "color": "#42d4f4",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "traffic_light",
+    "color": "#ffe119",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "occlusion",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "none",
+          "partial",
+          "heavy"
+        ],
+        "default_value": "none"
+      },
+      {
+        "name": "truncated",
+        "input_type": "checkbox",
+        "mutable": false,
+        "values": [
+          "false"
+        ],
+        "default_value": "false"
+      }
+    ]
+  },
+  {
+    "name": "scene",
+    "color": "#808080",
+    "type": "tag",
+    "attributes": [
+      {
+        "name": "weather",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "clear",
+          "cloudy",
+          "rain",
+          "fog"
+        ],
+        "default_value": "clear"
+      },
+      {
+        "name": "time_of_day",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "day",
+          "dusk",
+          "night"
+        ],
+        "default_value": "day"
+      }
+    ]
+  }
+]

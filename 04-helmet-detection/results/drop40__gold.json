@@ -1,0 +1,14 @@
+{
+ "variant": "drop40",
+ "test_set": "gold",
+ "mAP50": 0.5566,
+ "mAP50_95": 0.302,
+ "precision": 0.6739,
+ "recall": 0.5297,
+ "per_class_mAP50": {
+  "helmet": 0.6243,
+  "head": 0.5401,
+  "motorcycle": 0.5054
+ },
+ "minutes": 0.1
+}

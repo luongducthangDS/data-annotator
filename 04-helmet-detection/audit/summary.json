@@ -1,0 +1,23 @@
+{
+ "reviewed": 93,
+ "verdicts": {
+  "wrong": 47,
+  "missing": 34,
+  "unsure": 12
+ },
+ "verdicts_by_class": {
+  "motorcycle:wrong": 15,
+  "motorcycle:missing": 9,
+  "head:wrong": 11,
+  "motorcycle:unsure": 5,
+  "helmet:wrong": 21,
+  "helmet:missing": 8,
+  "head:missing": 17,
+  "head:unsure": 7
+ },
+ "boxes_added_to_gold": {
+  "head": 17,
+  "motorcycle": 9,
+  "helmet": 8
+ }
+}

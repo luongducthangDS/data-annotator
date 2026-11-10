@@ -1,0 +1,46 @@
+idx,image_id,traffic_scene,issue,detail
+0,00180d4119,no,ok,
+1,10043cd511,no,ok,ski helmet
+2,2004cb569d,yes,missing_boxes,market street: 1 motorcycle labeled; other heads/vehicles unlabeled
+3,30059c42b7,no,ok,helmet on table
+4,40099f7e3b,no,missing_boxes,woman's head unlabeled
+5,500ff807b8,no,missing_boxes,second motorcycle top-right unlabeled
+6,601cc5aa72,no,ok,
+7,701cfd6c3e,no,ok,
+8,801d798bd3,no,ok,
+9,01e75141fb,no,policy,helmet inside a framed poster is labeled
+10,02d120919f,no,ok,
+11,02e7dc3cb8,no,ok,image is rotated 90 degrees
+12,033e8a2d4a,no,ok,
+13,037663b35a,no,policy+missing,toy motorcycle: helmet labeled but motorcycle not
+14,04246420df,no,ok,image is rotated 90 degrees
+15,054f456f95,yes,missing_boxes,police rider's helmet unlabeled
+16,0732c909e3,no,ok,
+17,0753e35481,no,ok,race-car driver helmet
+18,0874ab04b7,yes,missing_boxes,Vietnam street: many riders/heads/motorcycles unlabeled
+19,0886804a92,no,policy,heads in a painting are labeled
+20,08e29e6762,no,ok,
+21,0a9c1c624b,no,ok,
+22,0ab3488312,no,ok,
+23,0bd2b3b437,no,ok,lacrosse helmets
+24,0d80588e14,no,ok,museum helmet
+25,0deea9868e,no,ok,
+26,0e6bc54d73,no,ok,
+27,0e7592d341,no,ok,
+28,0e9cd1640b,no,ok,
+29,104202ac02,no,missing_boxes,catcher helmet labeled; other players' heads unlabeled
+30,154eeef56b,no,ok,
+31,16e16bb02b,no,ok,cap counted as head (correct)
+32,174475b857,yes,missing_boxes,Vietnam street: cyclist/riders heads and other motorcycles unlabeled
+33,17dcb94e4d,no,ok,
+34,197f4f1083,no,ok,
+35,19b99b12af,no,ok,hard hat
+36,1b1506711b,no,policy,statue helmets are labeled
+37,1d12acf734,yes,missing_boxes,motorcycles labeled; people's heads unlabeled
+38,1e4589f985,no,ok,
+39,1e5f0a9fb6,no,policy,helmets in poster artwork are labeled
+40,231a7df0ae,yes,missing_boxes,two riders wearing helmets on scooter: helmets unlabeled
+41,23267281c3,no,missing_boxes,helmets labeled; crowd heads unlabeled
+42,232ae874a5,no,missing_boxes,tiny helmet labeled; crowd heads unlabeled
+43,244d00bb1c,no,wrong_class,robot head labeled as helmet
+44,2a6c61f4d6,no,ok,
